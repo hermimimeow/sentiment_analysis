@@ -1,5 +1,5 @@
 Machine Learning Sentiment Analysis Project 
-
+partner: Shreyas Ravi
 Overview
 
 This project, developed during the Fall 2023 semester at Tufts University, focuses on creating a machine learning model for sentiment analysis. Our dataset comprises 3,000 single-sentence reviews sourced from imdb.com, amazon.com, and yelp.com.
